@@ -1,0 +1,28 @@
+/* Style Sheet
+div: a red background, white text, a font size of 32px, center aligned, and bold
+p: a green background, white text, and a font size of 18px
+button: an orange background and a font size of 18px */
+
+/* 
+* {} is a universal selector and will apply to all elements
+.class {} anything with . is a class and class is added to element attribute. Seperate with space
+#.id {} anything with # represent ID, only one ID per element */
+
+div {
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
+
+/* p {
+    background-color: green;
+    color: white;
+    font-size: 18px;
+} */
+
+/* button {
+    background-color: orange;
+    font-size: 18px;
+} */
